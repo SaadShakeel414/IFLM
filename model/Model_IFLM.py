@@ -8,7 +8,7 @@ Created on Thu Apr 28 12:00:37 2022
 import torch
 import torch.nn as nn
 # from .Modules_IFLM import Spatial_Channel_Feature_interaction, CL_Fea_interaction, ProjectorBlock, Local_Att_Conv_Block, SCIFM_R
-from .Modules_IFLM_V2 import SCFIM, HCAM
+from .Modules_IFLM import SCFIM, HCAM
 
 # ---------------------------------- LResNet50E-IR network Begin ----------------------------------
 
